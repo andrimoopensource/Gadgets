@@ -8,7 +8,7 @@ image: assets/images/demo1.jpg
 This is RealMe 3 Mobile Specification. 
 
 
-
+|      System Name      |      Specification       |
 | --------------------- | ------------------------ |
 |      Performance      |       Octa Core          |
 |      Display          |     6.2" (15.75 cm)      |
