@@ -8,6 +8,12 @@ image: assets/images/demo1.jpg
 This is RealMe 3 Mobile Specification. 
 
 | Performance | Octa core |
-| --- | 
+| --- | | --- |
 | Display | 6.2" (15.75 cm) |
-| --- |
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
