@@ -1,6 +1,6 @@
 # Site
-name: 'Gadgets'
-description: 'Gadgets News, About Latest Launch Smartphone or Gadgets.'
+name: 'Gadgets Live'
+description: 'Tech News, Latest technology news daily, new best tech gadgets reviews which include mobiles, tablets, laptops, video games.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
