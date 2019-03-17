@@ -9,8 +9,8 @@ This is RealMe 3 Mobile Specification.
 
 
 
-
+| --------------------- | ------------------------ |
 |      Performance      |       Octa Core          |
 |      Display          |     6.2" (15.75 cm)      |
 |      Storage          |           32GB           | 
-
+| --------------------- | ------------------------ |
