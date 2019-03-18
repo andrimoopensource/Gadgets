@@ -2,6 +2,13 @@
  * Mundana Jekyll Theme (https://www.wowthemes.net/mundana-jekyll-theme/)
  */
 
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black; padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px; 
+        }
+
 body {
 	overflow-x:hidden;
 	padding-top:69.75px;
