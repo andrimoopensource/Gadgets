@@ -33,6 +33,40 @@ This is RealMe 3 Mobile Specification.
 
 {: .tablelines}
 
+<table class="tg">
+  <tr>
+    <th class="tg-baqh" colspan="2">Some values</th>
+  </tr>
+  <tr>
+    <th class="tg-baqh">Material</th>
+    <th class="tg-baqh">Value</th>
+  </tr>
+  <tr>
+    <td class="tg-baqh">A</td>
+    <td class="tg-baqh">0.75</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">B</td>
+    <td class="tg-baqh">0.47</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">C</td>
+    <td class="tg-baqh">0.4 - 0.7</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">C</td>
+    <td class="tg-baqh">1.0 - 1.8</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">S</td>
+    <td class="tg-baqh">0.15 - 2.0</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">W</td>
+    <td class="tg-baqh">0.07 - 0.17</td>
+  </tr>
+</table>
+
 Is your Smartphone Lagging when you play PUBG mobile. Don’t worry today in this article i will show you Advanced Tactics to Pubg Lag Fix. So lets dive in this tutorail and bye-bye lag again from device.
 
 PUBG Mobile is one of the Best and Trending game for smartphone. But the main Problem of PUBG mobile is lag, If your device have low specifications then you also fased lagging issue. First I prefer you to check this basic guide for Optimise your android device for run PUBG Smoothly.
