@@ -10,7 +10,7 @@ This is RealMe 3 Mobile Specification.
 
 <style>
 .tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black; weidth: 100%; 
+        border: 1px solid black; width: 100%; 
         }
 </style>
 
