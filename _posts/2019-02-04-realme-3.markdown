@@ -10,61 +10,124 @@ This is RealMe 3 Mobile Specification.
 
 
 
+<style>
+
+body {
+  font-family: 'lato', sans-serif;
+}
+.container {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+h2 {
+  font-size: 26px;
+  margin: 20px 0;
+  text-align: center;
+  small {
+    font-size: 0.5em;
+  }
+}
+
+.responsive-table {
+  li {
+    border-radius: 3px;
+    padding: 25px 30px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+  }
+  .table-header {
+    background-color: #95A5A6;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+  .table-row {
+    background-color: #ffffff;
+    box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.1);
+  }
+  .col-1 {
+    flex-basis: 10%;
+  }
+  .col-2 {
+    flex-basis: 40%;
+  }
+  .col-3 {
+    flex-basis: 25%;
+  }
+  .col-4 {
+    flex-basis: 25%;
+  }
+  
+  @media all and (max-width: 767px) {
+    .table-header {
+      display: none;
+    }
+    .table-row{
+      
+    }
+    li {
+      display: block;
+    }
+    .col {
+      
+      flex-basis: 100%;
+      
+    }
+    .col {
+      display: flex;
+      padding: 10px 0;
+      &:before {
+        color: #6C7A89;
+        padding-right: 10px;
+        content: attr(data-label);
+        flex-basis: 50%;
+        text-align: right;
+      }
+    }
+  }
+}
 
 
-<table class="tg">
-  <tr>
-    <th class="tg-baqh" colspan="2">Some values</th>
-  </tr>
-  <tr>
-    <th class="tg-baqh">Material</th>
-    <th class="tg-baqh">Value</th>
-  </tr>
-  <tr>
-    <td class="tg-baqh">A</td>
-    <td class="tg-baqh">0.75</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">B</td>
-    <td class="tg-baqh">0.47</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">C</td>
-    <td class="tg-baqh">0.4 - 0.7</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">C</td>
-    <td class="tg-baqh">1.0 - 1.8</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">S</td>
-    <td class="tg-baqh">0.15 - 2.0</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">W</td>
-    <td class="tg-baqh">0.07 - 0.17</td>
-  </tr>
-</table>
-
-Is your Smartphone Lagging when you play PUBG mobile. Don’t worry today in this article i will show you Advanced Tactics to Pubg Lag Fix. So lets dive in this tutorail and bye-bye lag again from device.
-
-PUBG Mobile is one of the Best and Trending game for smartphone. But the main Problem of PUBG mobile is lag, If your device have low specifications then you also fased lagging issue. First I prefer you to check this basic guide for Optimise your android device for run PUBG Smoothly.
-
-Here is the Basic Steps you can follow to PUBG Lag fix:
-1. Update Android Device
-The First Tips I have for you is Update Android Device, If your Android Version is old then your device run like choppy in big files. So, I prefer you to first Update your android version (if an update available).
-
-2. Use Android Cleaner
-The Second Tips i have for you is use android cleaner to clear cache and cookies, remove junk data and duplicate file that speed up your device. I prefer you to use any android cleaner.
-
-3. Reduce Frame Rate
-The Third Tips i have for you is Reduce Frame Rate of PUBG Mobile. Frame Rate takes more CPU and RAM in Device, So if you reduce frame rate of PUBG mobile then your PUBG run Freely.
-
-4. Graphics
+</style>
 
 
-
-
-
-
-
+<div class="container">
+  <h2>Responsive Tables Using LI <small>Triggers on 767px</small></h2>
+  <ul class="responsive-table">
+    <li class="table-header">
+      <div class="col col-1">Job Id</div>
+      <div class="col col-2">Customer Name</div>
+      <div class="col col-3">Amount Due</div>
+      <div class="col col-4">Payment Status</div>
+    </li>
+    <li class="table-row">
+      <div class="col col-1" data-label="Job Id">42235</div>
+      <div class="col col-2" data-label="Customer Name">John Doe</div>
+      <div class="col col-3" data-label="Amount">$350</div>
+      <div class="col col-4" data-label="Payment Status">Pending</div>
+    </li>
+    <li class="table-row">
+      <div class="col col-1" data-label="Job Id">42442</div>
+      <div class="col col-2" data-label="Customer Name">Jennifer Smith</div>
+      <div class="col col-3" data-label="Amount">$220</div>
+      <div class="col col-4" data-label="Payment Status">Pending</div>
+    </li>
+    <li class="table-row">
+      <div class="col col-1" data-label="Job Id">42257</div>
+      <div class="col col-2" data-label="Customer Name">John Smith</div>
+      <div class="col col-3" data-label="Amount">$341</div>
+      <div class="col col-4" data-label="Payment Status">Pending</div>
+    </li>
+    <li class="table-row">
+      <div class="col col-1" data-label="Job Id">42311</div>
+      <div class="col col-2" data-label="Customer Name">John Carpenter</div>
+      <div class="col col-3" data-label="Amount">$115</div>
+      <div class="col col-4" data-label="Payment Status">Pending</div>
+    </li>
+  </ul>
+</div>
