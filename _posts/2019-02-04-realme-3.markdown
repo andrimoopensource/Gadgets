@@ -10,23 +10,28 @@ This is RealMe 3 Mobile Specification.
 
 
 
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
 
-{.table}
 
-|-----------------+------------------|
-| Default aligned |Left aligned.     | 
-|:----------------|-----------------:|
-| First body part |Second cell.      |
-| Second line     |foo               | 
-| Third line      |quux              | 
-|-----------------+------------------|
-| Second body     |                  |                
-| 2 line          |                  |               
-|=================+==================|
-| Footer row      |                  |              
-|-----------------+------------------|
+|-----------------+------------|
+| Default aligned |Left aligned| 
+|-----------------|------------|
+| First body part |Second cell | 
+| Second line     |foo         |
+| Third line      |quux        |
+|-----------------+------------|
+| Second body     |            |
+| 2 line          |            |         
+|=================+============|
+| Footer row      |            |         
+|-----------------+------------|
 
-{.table}
+{: .tablelines}
+
 
 
 
