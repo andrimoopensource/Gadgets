@@ -14,16 +14,17 @@ PUBG Mobile is one of the Best and Trending game for smartphone. But the main Pr
 {: .tablelines}
 
 |-----------------+--------------|
-| Default aligned | Left aligned | 
+| System Name     |      Details | 
 |-----------------|--------------|
-| First body part |  Second cell | 
-| Second line     |  foo         |
-| Third line      |  quux        |
+|  Performance    |  Octa core   | 
+|  Display        | 6.3" (16 cm) |
+| Storage         |     64 GB    |  
+|  RAM            |  6GB         |
 |-----------------+--------------|
-| Second body     |              |
-| 2 line          |              |         
+| Camera          | 16 MP + 5 MP |
+|     Battery     |    4500 mAh  |         
 |=================+==============|
-| Footer row      |              |         
+| Launch Date (IN)|April 10, 2019|         
 |-----------------+--------------|
 
  {: .tablelines}
