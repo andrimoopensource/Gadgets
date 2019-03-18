@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "REALME 3"
+title:  "REALME 3 Pro"
 categories: [ Jekyll ]
 image: assets/images/Realme-3.jpg
 ---
@@ -13,6 +13,10 @@ PUBG Mobile is one of the Best and Trending game for smartphone. But the main Pr
 
 {: .tablelines}
 
+## REALME 3 PRO SPECIFICATIONS
+
+### Summary
+
 |-----------------+--------------|
 | System Name     |      Details | 
 |-----------------|--------------|
@@ -21,10 +25,10 @@ PUBG Mobile is one of the Best and Trending game for smartphone. But the main Pr
 | Storage         |     64 GB    |  
 |  RAM            |  6GB         |
 |-----------------+--------------|
-| Camera          | 16 MP + 5 MP |
+| Camera          | 16 + 5 MP    |
 |     Battery     |    4500 mAh  |         
 |=================+==============|
-| Launch Date (IN)|April 10, 2019|         
+| Launch Date     |April 10, 2019|         
 |-----------------+--------------|
 
  {: .tablelines}
