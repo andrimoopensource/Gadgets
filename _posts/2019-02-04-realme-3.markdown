@@ -10,14 +10,6 @@ This is RealMe 3 Mobile Specification. Is your Smartphone Lagging when you play 
 PUBG Mobile is one of the Best and Trending game for smartphone. But the main Problem of PUBG mobile is lag, If your device have low specifications then you also fased lagging issue. First I prefer you to check this basic guide for Optimise your android device for run PUBG Smoothly.
 
 
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black; padding-left: 100px;
-    padding-right: 100px;
-    padding-top: 5px;
-    padding-bottom: 5px; 
-        }
-</style>
 
 {: .tablelines}
 
