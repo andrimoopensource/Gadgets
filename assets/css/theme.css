@@ -787,7 +787,16 @@ a.a2a_i, i.a2a_i, .a2a_menu a.a2a_i:visited, .a2a_menu a.a2a_more {
 }
 div.a2a_full_footer {display:none;}
 
-table {
-  color: color:#03a87c;
-  
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:2px solid #ff0000;
+}
+
+th{
+    border:2px solid #000000;
+}
+
+td{
+    border:1px solid #000000;
 }
