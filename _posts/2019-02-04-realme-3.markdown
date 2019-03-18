@@ -14,6 +14,7 @@ This is RealMe 3 Mobile Specification.
         }
 </style>
 
+{: .tablelines}
 
 
 |-----------------+------------------|
