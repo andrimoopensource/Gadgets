@@ -8,14 +8,10 @@ image: assets/images/Realme-3.jpg
 This is RealMe 3 Mobile Specification. 
 
 
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid blue; align: center;
-        }
-</style>
 
-{: .tablelines}
 
+
+{.table}
 
 |-----------------+------------------|
 | Default aligned |Left aligned.     | 
@@ -30,7 +26,7 @@ This is RealMe 3 Mobile Specification.
 | Footer row      |                  |              
 |-----------------+------------------|
 
-{: .tablelines}
+{.table}
 
 
 
