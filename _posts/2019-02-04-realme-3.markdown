@@ -29,7 +29,7 @@ This is RealMe 3 Mobile Specification.
 | Footer row      |            |              
 |-----------------+------------|
 
-
+{: .tablelines}
 
 
 
