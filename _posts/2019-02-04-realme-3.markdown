@@ -8,87 +8,27 @@ image: assets/images/Realme-3.jpg
 This is RealMe 3 Mobile Specification. 
 
 
-|      System Name      |      Specification       |
-| --------------------- | ------------------------ |
-|      Performance      |       Octa Core          |
-|      Display          |     6.2" (15.75 cm)      |
-|      Storage          |           32GB           | 
-| --------------------- | ------------------------ |
 
-
-
-share improve this question
-asked
-Apr 4 '17 at 0:45
-
-Exuro
-62●1●8
-2 Answers
-order by  
-up vote
-2
-down vote
-accepted
-You need to apply some styling to the tables code, for example to apply the css class tablelines you can use inline attributes {: .tablelines} :
-
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
-
-| P | Q | P * Q |
-| - | - | - |
-| T | T | T |
-| T | F | F |
-| F | T | F |
-| F | F | F |
 {: .tablelines}
 
-|---|---|---|
-|a  | b | c|
-| 1|2|3|
+|-----------------+------------|
+| Default aligned |Left aligned| 
+|:---------------:|:----------:|
+| First body part |Second cell |
+| Second line     |foo         | 
+| Third line      |quux        | 
+|-----------------+------------|
+| Second body     |            |                
+| 2 line          |            |               
+|=================+============|
+| Footer row      |            |              
+|-----------------+------------|
 {: .tablelines}
 
-|-----------------+------------+-----------------+----------------|
-| Default aligned |Left aligned| Center aligned  | Right aligned  |
-|-----------------|:-----------|:---------------:|---------------:|
-| First body part |Second cell | Third cell      | fourth cell    |
-| Second line     |foo         | **strong**      | baz            |
-| Third line      |quux        | baz             | bar            |
-|-----------------+------------+-----------------+----------------|
-| Second body     |            |                 |                |
-| 2 line          |            |                 |                |
-|=================+============+=================+================|
-| Footer row      |            |                 |                |
-|-----------------+------------+-----------------+----------------|
-{: .tablelines}
 
-| A simple | table |
-| with multiple | lines|
-{: .tablelines}
 
-<table>
-<colgroup>
-<col width="30%" />
-<col width="70%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Field</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td markdown="span">First column **fields**</td>
-<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
-</tr>
-<tr>
-<td markdown="span">Second column **fields**</td>
-<td markdown="span">Some more descriptive text.
-</td>
-</tr>
-</tbody>
-</table>
+
+
+
+
 
