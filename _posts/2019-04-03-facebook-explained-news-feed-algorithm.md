@@ -2,7 +2,7 @@
 layout: post
 title:  "Facebook Explained News Feed Algorithm"
 categories: [ Social Media ]
-image: assets/images/Realme-3.jpg
+image: assets/images/facebook-explained-news-feed-algorithm.jpg
 ---
 Social media large Facebook discharged a replacement feature referred to as “Why am I seeing this post?”. This practicality builds on an analogous feature that the corporate discharged back in 2014 that explains to users why they're seeing bound advertisements on their news feed, and it tries to explain however Facebook’s algorithms opt for the content that folks can see on their news feed by listing the knowledge that the algorithms utilized in ranking posts.
 
