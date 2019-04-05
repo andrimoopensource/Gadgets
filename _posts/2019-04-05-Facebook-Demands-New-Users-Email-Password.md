@@ -3,7 +3,7 @@ layout: post
 title:  "Facebook Demands New Users Email Passwords. Really?"
 author: Rahul
 categories: [ Social Media ]
-image: 
+image: https://cdn.pixabay.com/photo/2013/01/29/09/52/facebook-76536_960_720.png
 ---
 As The Daily Beast rumored yesterday (April 2), some users square measure being interrupted, right once they register, by Associate in Nursing opening pop-up stating that they have to supply the passwords to the e-mail accounts they accustomed sign in for Facebook so as to "verify" their email address.
 
