@@ -5,4 +5,10 @@ permalink: "/about.html"
 image: "/assets/images/screenshot.jpg"
 comments: true
 ---
-Made with <i class="fa fa-heart text-danger"></i> by Sal [@wowthemesnet](https://www.wowthemes.net/category/free-themes-templates/).
+
+Andrimo is a Digital learning platform, here you can learn more about the latest technology, gadgets (Related to Operating System) and we have launched Tech News Site (technews.andrimo.com) that provide all the things and News about Technology. This is Absolutely Free For Everyone. 
+
+## Join
+
+If anyone interested in this news site for contribution. Drop your Resume at team@andrimo.com
+
