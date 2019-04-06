@@ -3,7 +3,7 @@ layout: post
 title:  "WhatsApp Business app is Now available on iPhones"
 author: Rahul
 categories: [ Social Media ]
-image: https://cdn.pixabay.com/photo/2017/02/04/11/10/iphone-2037153_960_720.jpg
+image: https://cdn.andrimo.com/technews/images/whatsapp-business.jpg
 tags: [whatsapp business]
 ---
 Facebook-owned WhatsApp Business, a free-to-download communication app specifically designed for little businesses, is currently formally obtainable for iPhone users in many countries, as well as in India.
