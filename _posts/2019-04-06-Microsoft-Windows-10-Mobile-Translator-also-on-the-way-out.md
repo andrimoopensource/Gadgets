@@ -3,7 +3,7 @@ layout: post
 title:  " Microsoft Windows 10 Mobile Translator also on the way out"
 author: Rahul
 categories: [ Microsoft ]
-image: 
+image: https://cdn.andrimo.com/technews/images/microsoft-smartphone.jpg
 tags: [Microsoft Windows 10]
 ---
 
