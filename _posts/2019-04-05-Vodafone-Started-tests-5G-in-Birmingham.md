@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vodafone Started tests 5G in Birmingham"
-author: Rahul
+author: rahul
 categories: [ Telecom ]
 image: https://cdn.andrimo.com/technews/images/vodafone.jpg
 ---
