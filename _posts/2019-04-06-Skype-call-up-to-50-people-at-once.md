@@ -3,7 +3,7 @@ layout: post
 title:  "Skype call up to 50 people at once"
 author: Rahul
 categories: [ Apps ]
-image: 
+image: https://cdn.andrimo.com/technews/images/skype.jpg
 tags: featured
 ---
 
