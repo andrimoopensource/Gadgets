@@ -3,7 +3,7 @@ layout: post
 title:  "Netflix testing weekly plans in India"
 author: Rahul
 categories: [ Social ]
-image: 
+image: https://cdn.andrimo.com/technews/images/netflix.jpg
 ---
 Netflix is testing weekly plans for choose users in Bharat, that begin for as low as Rs 65 per week for the mobile-only set up. in line with a Gadgets360 report, the video streaming service has additionally started testing a brand new mobile-only monthly set up of Rs 250 still.
 
