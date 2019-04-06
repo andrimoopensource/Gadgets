@@ -3,7 +3,7 @@ layout: post
 title:  "Google releases Android Q Beta 2 update"
 author: rahul
 categories: [ Android ]
-image: 
+image: https://cdn.andrimo.com/technews/images/androidq.jpg
 tags: featured, Android
 ---
 Google has declared the release of its alphabetic character Beta a pair of update, that is currently out there for all the 3 generations of component smartphones. the primary beta build was discharged last month and also the company claims to own since then received thousands of bug reports, that it's worked on fixing with the second beta build.
