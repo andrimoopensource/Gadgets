@@ -3,6 +3,7 @@ layout: post
 title:  "Realme U1 64GB launched"
 author: rahul
 categories: [ Smartphone ]
+image: https://cdn.andrimo.com/technews/images/realme-u-1.jpg
 ---
 
 One of the foremost notable smartphone companies Realme that is understood to be giving highest quality camera specifications and classy exteriors, have launched its all new smartphone ‘Realme U1 64GB’ variant in Bharat priced at Rs. 10, 999.
