@@ -3,7 +3,7 @@ layout: post
 title:  "Samsung India launches Galaxy A20"
 author: Rahul
 categories: [ Smartphone ]
-image: 
+image: https://cdn.andrimo.com/technews/images/samsung-A20.jpg
 ---
 
 Samsung Bharat on Fri declared Galaxy A20, its fourth smartphone within the Galaxy A series this year. Galaxy A20 comes with many meaty innovations and guarantees to disrupt the worth phase in Bharat.
