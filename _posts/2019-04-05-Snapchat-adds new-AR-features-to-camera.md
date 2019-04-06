@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Snapchat adds new AR features to camera"
-author: Rahul
+author: rahul
 categories: [ Apps ]
 image: https://cdn.andrimo.com/technews/images/snapchat.jpg
 ---
