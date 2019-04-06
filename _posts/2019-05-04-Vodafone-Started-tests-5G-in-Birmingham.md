@@ -3,7 +3,7 @@ layout: post
 title:  "Vodafone Started tests 5G in Birmingham"
 author: Rahul
 categories: [ Telecom ]
-image: 
+image: https://cdn.andrimo.com/technews/images/vodafone.jpg
 ---
 Vodafone has declared that it's started a shot of 5G in Birmingham, the trial is going down at the Birmingham New Street Station.
 
