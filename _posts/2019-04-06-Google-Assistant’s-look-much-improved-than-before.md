@@ -3,7 +3,7 @@ layout: post
 title:  "Google Assistant’s look much improved than before"
 author: Rahul
 categories: [ Apps ]
-image: 
+image: https://cdn.andrimo.com/technews/images/google-assistant.jpg
 tags: [featured]
 ---
 Visual responses in Google Assistant aren’t new, however we are able to invariably use additional of them. That’s why Google these days updated its virtual assistant with additional responses that square measure appealing to the eyes.
