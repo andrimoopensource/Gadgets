@@ -3,7 +3,7 @@ layout: post
 title:  "Snapchat adds new AR features to camera"
 author: Rahul
 categories: [ Apps ]
-image: https://cdn.pixabay.com/photo/2016/04/28/23/55/snapchat-1360003_960_720.jpg
+image: https://cdn.andrimo.com/technews/images/snapchat.jpg
 ---
 Snap Inc, the parent company behind electronic communication app Snapchat, declared new options together with a revamped AR camera, Snap Games and integration with third-party apps like Netflix, Tinder, VSCO and India’s JioSaavn at its 1st ‘Snap Partner Summit’. Snapchat’s announcements come back while it faces multiplied competition from social media big and its Instagram app at the side of deceleration growth.
 
