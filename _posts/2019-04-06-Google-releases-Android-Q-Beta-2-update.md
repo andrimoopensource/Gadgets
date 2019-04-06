@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Google releases Android Q Beta 2 update"
-author: Rahul
+author: rahul
 categories: [ Android ]
 image: 
 tags: featured, Android
