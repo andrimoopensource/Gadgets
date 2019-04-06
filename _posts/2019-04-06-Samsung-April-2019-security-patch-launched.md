@@ -3,7 +3,7 @@ layout: post
 title:  "Samsung April 2019 security patch launched"
 author: Rahul
 categories: [ Security ]
-image: 
+image: https://cdn.andrimo.com/technews/images/samsung-patch.jpg
 ---
 
 Samsung has just released details for its Apr 2019 security patch. the corporate unendingly releases monthly security patches for varied of its devices so as to patch vulnerabilities that arise within the automaton package. The Gregorian calendar month 2019 security patch can build its thanks to Samsung’s smartphones within the next number of days.
