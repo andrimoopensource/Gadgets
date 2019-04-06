@@ -7,7 +7,7 @@ image: https://cdn.andrimo.com/technews/images/vodafone.jpg
 ---
 Vodafone has declared that it's started a shot of 5G in Birmingham, the trial is going down at the Birmingham New Street Station.
 
-The Birmingham New Street Station is that the initial UK station check|to check} out the 5G technology and travelers will test out the new technology.
+The Birmingham New Street Station is that the initial UK station to check out the 5G technology and travelers will test out the new technology.
 
 Mayor of the West Midlands, Andy Street, tested the region’s new technology on the New Street concourse. Passengers at the station were conjointly invited to check 5G speeds employing a 5G router.
 
