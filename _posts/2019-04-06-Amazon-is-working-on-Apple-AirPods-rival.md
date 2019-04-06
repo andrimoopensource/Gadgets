@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Amazon is working on Apple AirPods rival"
-author: Rahul
+author: rahul
 categories: [ Other ]
 image: https://cdn.andrimo.com/technews/images/amazon.jpg
 ---
