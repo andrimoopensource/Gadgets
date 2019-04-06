@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Google Assistant’s look much improved than before"
-author: Rahul
+author: rahul
 categories: [ Apps ]
 image: https://cdn.andrimo.com/technews/images/google-assistant.jpg
 tags: [featured]
