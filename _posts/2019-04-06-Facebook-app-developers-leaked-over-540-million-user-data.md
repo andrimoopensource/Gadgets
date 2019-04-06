@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Facebook app developers leaked over 540 million user data"
-author: Rahul
+author: rahul
 categories: [ Social Media ]
 image: https://cdn.andrimo.com/technews/images/facebook.png
 ---
