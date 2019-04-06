@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Netflix testing weekly plans in India"
-author: Rahul
+author: rahul
 categories: [ Social ]
 image: https://cdn.andrimo.com/technews/images/netflix.jpg
 ---
