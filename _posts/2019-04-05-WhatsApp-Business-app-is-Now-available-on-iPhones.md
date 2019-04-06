@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "WhatsApp Business app is Now available on iPhones"
-author: Rahul
+author: rahul
 categories: [ Social Media ]
 image: https://cdn.andrimo.com/technews/images/whatsapp-business.jpg
 tags: [whatsapp business]
