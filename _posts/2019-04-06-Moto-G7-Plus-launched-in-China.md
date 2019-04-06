@@ -3,7 +3,7 @@ layout: post
 title:  "Moto G7 Plus launched in China: See All Specification"
 author: rahul
 categories: [ Smartphone ]
-image: 
+image: https://cdn.andrimo.com/technews/images/moto-g7-plus.jpeg
 ---
 One of the foremost famed smartphone corporations Motorola that is thought to be giving outstanding options at cheap costs, have launched its all new smartphone ‘Moto G7 Plus’ in China priced at 2099 yuan and 2399 yuan for 4+128GB version and 6GB + 128GB version severally.
 
