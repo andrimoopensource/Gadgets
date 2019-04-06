@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    Rahul:
+    rahul:
       name:           Rahul 
       site:           https://www.rahulit.com
       avatar:         assets/images/rahul.jpg
