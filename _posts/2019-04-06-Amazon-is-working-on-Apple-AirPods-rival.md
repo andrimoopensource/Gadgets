@@ -3,7 +3,7 @@ layout: post
 title:  "Amazon is working on Apple AirPods rival"
 author: Rahul
 categories: [ Other ]
-image: 
+image: https://cdn.andrimo.com/technews/images/amazon.jpg
 ---
 California [USA], April six (ANI): when Apple introduced hands-free access to Siri through AirPods a pair of, Amazon is about to imitate. the corporate is reportedly engaged on transfer its own wireless earbuds that may even be the primary Alexa wearable.
 Alexa, Amazon’s voice-based digital assistant, is powering heaps of sensible internet-connected devices. However, it's not been integrated with earbuds before.
