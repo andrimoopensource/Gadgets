@@ -2,6 +2,7 @@
 layout: post
 title:  "Apple Reduce iPhone XR Prices In India."
 categories: [ Smartphone ]
+author: rahul
 image: https://cdn.andrimo.com/technews/images/apple.jpg?raw=true
 ---
 Apple opposition has cut costs of 1 of its latest iPhones in Asian nation by around fourth part, sources aforementioned, as the U.S. technical school large appearance to spice up sales within the world's second-biggest smartphone market following an identical move in China.
