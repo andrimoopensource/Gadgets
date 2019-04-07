@@ -3,7 +3,7 @@ layout: post
 title:  "Windows 10 Next Update Will Put Users Back In Control Of Their Updates"
 author: Rahul
 categories: [ Windows ]
-image: https://cdn.andrimo.com/technews/images/
+image: https://cdn.andrimo.com/technews/images/windows10.jpg
 ---
 Whenever a code update is released, it's typically up to the user to make your mind up after they wish to put in it. this can be as a result of generally updates aren’t continually excellent which they may really find yourself breaking things rather than fixing them, like was the case with a previous Windows ten update that resulted in Microsoft really encouraging users to uninstall it.
 Advertising
