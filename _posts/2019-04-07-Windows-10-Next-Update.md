@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Windows 10 Next Update Will Put Users Back In Control Of Their Updates"
-author: Rahul
+author: rahul
 categories: [ Windows ]
 image: https://cdn.andrimo.com/technews/images/windows10.jpg
 ---
