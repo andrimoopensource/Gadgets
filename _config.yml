@@ -16,7 +16,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-    - jekyll-feed
+  - jekyll-feed
   
 authors:
     rahul:
