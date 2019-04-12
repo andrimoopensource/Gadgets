@@ -3,7 +3,7 @@ layout: post
 title:  "Google Pixel 3A Specifications & Features, Price in India, Release date"
 author: rahul
 categories: [ smartphone ]
-image: https://cdn.andrimo.com/technews/images/Google%20Pixel%203A.jpg
+image: 
 ---
 
 Recently, Google accidentally confirmed that it's engaged on a replacement lite version of its flagship phones known as the pel 3A on the knowledge page of its on-line store. they need currently taken down the knowledge, however not with the ever alert mobile police taking notice of it. This phone is reportedly set to be the midrange version of the pel series. whereas the knowledge page didn’t reveal any specifications of the phone however the rumors and leaks are egress in news reports for quite it slow currently. So, supported these reports, here is what we all know concerning the new pel 3A phone to this point.
