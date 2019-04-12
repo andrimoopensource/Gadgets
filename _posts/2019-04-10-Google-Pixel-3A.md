@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Google Pixel 3A Specifications & Features, Price in India"
+title:  "Google Pixel 3A Specifications and Features, Price in India"
 author: rahul
 categories: [ Smartphone ]
 image: https://cdn.andrimo.com/technews/images/Google%20Pixel%203A.jpg
