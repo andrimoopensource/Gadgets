@@ -3,7 +3,7 @@ layout: post
 title:  "Intel pulls out of the mobile 5G business"
 categories: [ Tech News ]
 author: rahul
-image: 
+image: https://cdn.andrimo.com/technews/images/intel.jpg
 ---
 
 Intel has simply announced that it's abandoning the 5G mobile modem market and focusing more on building 5G modems for PCs and good home devices. It also said it might focus additional on building 5G infrastructure.
