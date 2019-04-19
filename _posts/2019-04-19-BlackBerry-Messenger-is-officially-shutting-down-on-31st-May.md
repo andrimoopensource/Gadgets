@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "BlackBerry Messenger is officially shutting down on 31st May"
-author: Rahul
+author: rahul
 categories: [ Social ]
 image: https://cdn.andrimo.com/technews/images/bbm.jpg
 ---
