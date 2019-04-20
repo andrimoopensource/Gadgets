@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: amp
 title:  "Facebook AI scans real people videos to turns them into game characters"
 date:   2019-04-20 08:00:00 +0100
 image: https://cdn.andrimo.com/technews/images/facebook.png
