@@ -2,13 +2,6 @@
 layout: default
 ---
 {% assign author = site.authors[page.author] %}
-<!-- AMP Article -->
-{% if page.path contains 'posts' %}
-  {% unless page.amp_skip %}
-    <link rel="amphtml" href="{{ site.baseurl }}/amp-html/{{ page.amp_path }}.html">
-  {% endunless %}
-{% endif %}
-<!--AMP Article -->
 <div class="container">
 <div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
 		<div class="h-100 tofront">
