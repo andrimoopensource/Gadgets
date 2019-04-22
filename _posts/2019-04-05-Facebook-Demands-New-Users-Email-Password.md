@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Facebook Demands New Users Email Passwords. Really?"
-author: Rahul
+author: rahul
 categories: [ Social Media ]
 image: https://cdn.andrimo.com/technews/images/facebook.png
 ---
