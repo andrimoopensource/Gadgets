@@ -3,7 +3,7 @@ layout: post
 title:  "Google Lens app to gets new filters and translate option"
 author: rahul
 categories: [ Apps ]
-image: https://cdn.andrimo.com/technews/images/googlelens.png
+image: https://cdn.andrimo.com/technews/images/googlelens.jpg
 ---
 
 California [USA], April twenty two (ANI): Google Lens, an app that uses image recognition to identify objects and supply relevant info, is reportedly obtaining some new options.
